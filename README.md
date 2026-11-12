@@ -11,5 +11,6 @@ flutter pub get\nflutter run
 ## 📝 License
 MIT License — see [LICENSE](LICENSE) for details.
 ---
-Built with ❤️ by [Madiyar](https://github.com/madiyarmoldakhmet-ai) and Okayyyakok
+Built with ❤️ by [Madiyar](https://github.com/madiyarmoldakhmet-ai) and Okayyyakok and Nurmogg
+
 
